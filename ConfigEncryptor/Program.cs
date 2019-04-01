@@ -19,7 +19,7 @@ namespace ConfigEncryptor
 
             Console.Write("1. Encrypt\n2. Decrypt\n");
 
-            switch(Console.ReadKey().Key)
+            switch(Console.ReadKey(true).Key)
             {
                 case ConsoleKey.D1:
                     Encrypt(path);
