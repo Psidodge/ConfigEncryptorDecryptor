@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigEncryptor", "ConfigEncryptor\ConfigEncryptor.csproj", "{0CFD13B9-A375-4199-8DCA-CC12407D306C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigDecEncryptor", "ConfigEncryptor\ConfigDecEncryptor.csproj", "{0CFD13B9-A375-4199-8DCA-CC12407D306C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
